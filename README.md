@@ -27,3 +27,6 @@ This project is a simple web application that allows users to shorten long URLs.
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+
+![image](https://github.com/user-attachments/assets/08bad48f-21fa-4039-a1c5-1b4926a0d3ac)
+
